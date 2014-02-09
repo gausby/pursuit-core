@@ -1,0 +1,5 @@
+/node_modules/
+/docs/
+/sandbox/
+/npm-debug.log
+/benchmarks/results.csv
